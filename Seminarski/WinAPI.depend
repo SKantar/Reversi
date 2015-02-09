@@ -1,0 +1,550 @@
+# depslib dependency file v1.0
+1261936539 source:d:\projects\winapi\winapi\main.cpp
+	<windows.h>
+	<iostream>
+	"application.h"
+	"testElement.h"
+	"dragndrop.h"
+	"Card.h"
+	"Board.h"
+	"MS_IKSOKS.h"
+
+1262267234 d:\projects\winapi\winapi\application.h
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<string>
+	"Canvas.h"
+	"VisualElement.h"
+	"Interactive.h"
+	"BasicGame.h"
+	"Timer.h"
+
+1262279870 d:\projects\winapi\winapi\canvas.h
+	"Application.h"
+	"Utils.h"
+
+1261936541 d:\projects\winapi\winapi\utils.h
+	<vector>
+	<sstream>
+	<algorithm>
+
+1261936544 d:\projects\winapi\winapi\visualelement.h
+	"Application.h"
+	"Interactive.h"
+	"Utils.h"
+	<vector>
+
+1261936542 d:\projects\winapi\winapi\interactive.h
+	<vector>
+	"utils.h"
+
+1261936543 d:\projects\winapi\winapi\testelement.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1262279180 d:\projects\winapi\winapi\dragndrop.h
+	"VisualElement.h"
+
+1261498375 d:\projects\winapi\winapi\gdiplus\gdiplus.h
+	<pshpack8.h>
+	"GdiplusMem.h"
+	"GdiplusBase.h"
+	"GdiplusEnums.h"
+	"GdiplusTypes.h"
+	"GdiplusInit.h"
+	"GdiplusPixelFormats.h"
+	"GdiplusColor.h"
+	"GdiplusMetaHeader.h"
+	"GdiplusImaging.h"
+	"GdiplusColorMatrix.h"
+	"GdiplusGpStubs.h"
+	"GdiplusHeaders.h"
+	"GdiplusFlat.h"
+	"GdiplusImageAttributes.h"
+	"GdiplusMatrix.h"
+	"GdiplusBrush.h"
+	"GdiplusPen.h"
+	"GdiplusStringFormat.h"
+	"GdiplusPath.h"
+	"GdiplusLineCaps.h"
+	"GdiplusMetafile.h"
+	"GdiplusGraphics.h"
+	"GdiplusCachedBitmap.h"
+	"GdiplusRegion.h"
+	"GdiplusFontCollection.h"
+	"GdiplusFontFamily.h"
+	"GdiplusFont.h"
+	"GdiplusBitmap.h"
+	"GdiplusImageCodec.h"
+	<poppack.h>
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdiplusmem.h
+
+1261498376 d:\projects\winapi\winapi\gdiplus\gdiplusbase.h
+
+1261498377 d:\projects\winapi\winapi\gdiplus\gdiplusenums.h
+
+1261498379 d:\projects\winapi\winapi\gdiplus\gdiplustypes.h
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdiplusinit.h
+
+1261498379 d:\projects\winapi\winapi\gdiplus\gdipluspixelformats.h
+
+1261498376 d:\projects\winapi\winapi\gdiplus\gdipluscolor.h
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdiplusmetaheader.h
+	<pshpack2.h>
+	<poppack.h>
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdiplusimaging.h
+
+1261498376 d:\projects\winapi\winapi\gdiplus\gdipluscolormatrix.h
+
+1261498377 d:\projects\winapi\winapi\gdiplus\gdiplusgpstubs.h
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdiplusheaders.h
+
+1261498377 d:\projects\winapi\winapi\gdiplus\gdiplusflat.h
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdiplusimageattributes.h
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdiplusmatrix.h
+
+1261498376 d:\projects\winapi\winapi\gdiplus\gdiplusbrush.h
+
+1261498379 d:\projects\winapi\winapi\gdiplus\gdipluspen.h
+
+1261498379 d:\projects\winapi\winapi\gdiplus\gdiplusstringformat.h
+
+1261498379 d:\projects\winapi\winapi\gdiplus\gdipluspath.h
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdipluslinecaps.h
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdiplusmetafile.h
+
+1261498377 d:\projects\winapi\winapi\gdiplus\gdiplusgraphics.h
+
+1261498376 d:\projects\winapi\winapi\gdiplus\gdipluscachedbitmap.h
+
+1261498379 d:\projects\winapi\winapi\gdiplus\gdiplusregion.h
+
+1261498377 d:\projects\winapi\winapi\gdiplus\gdiplusfontcollection.h
+
+1261498377 d:\projects\winapi\winapi\gdiplus\gdiplusfontfamily.h
+
+1261498377 d:\projects\winapi\winapi\gdiplus\gdiplusfont.h
+
+1261498376 d:\projects\winapi\winapi\gdiplus\gdiplusbitmap.h
+
+1261498378 d:\projects\winapi\winapi\gdiplus\gdiplusimagecodec.h
+
+1261936544 d:\projects\winapi\winapi\visualimage.h
+	"VisualElement.h"
+	"Canvas.h"
+
+1262279365 d:\projects\winapi\winapi\card.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1261936538 d:\projects\winapi\winapi\board.h
+
+1262279681 d:\projects\winapi\winapi\ms_iksoks.h
+	"VisualText.h"
+	"BasicGame.h"
+	"Canvas.h"
+	"Board.h"
+
+1262279814 d:\projects\winapi\winapi\visualtext.h
+	"visualelement.h"
+
+1261649187 source:e:\cpp\seminarski1\winapi\main.cpp
+	<windows.h>
+	<iostream>
+	"application.h"
+	"testElement.h"
+	"dragndrop.h"
+	"Card.h"
+	"Board.h"
+	"MS_IKSOKS.h"
+
+1261648235 e:\cpp\seminarski1\winapi\application.h
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<string>
+	"Canvas.h"
+	"VisualElement.h"
+	"Interactive.h"
+	"BasicGame.h"
+
+1261625813 e:\cpp\seminarski1\winapi\canvas.h
+	"Application.h"
+	"Utils.h"
+
+1261645467 e:\cpp\seminarski1\winapi\utils.h
+	<vector>
+	<sstream>
+	<algorithm>
+
+1261625819 e:\cpp\seminarski1\winapi\visualelement.h
+	"Application.h"
+	"Interactive.h"
+	"Utils.h"
+	<vector>
+
+1261625838 e:\cpp\seminarski1\winapi\interactive.h
+	<vector>
+	"utils.h"
+
+1261625820 e:\cpp\seminarski1\winapi\testelement.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1261625815 e:\cpp\seminarski1\winapi\visualimage.h
+	"VisualElement.h"
+	"Canvas.h"
+
+1261625807 e:\cpp\seminarski1\winapi\dragndrop.h
+	"VisualElement.h"
+
+1261645601 e:\cpp\seminarski1\winapi\card.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1261649267 e:\cpp\seminarski1\winapi\board.h
+
+1261649187 e:\cpp\seminarski1\winapi\ms_iksoks.h
+	"VisualText.h"
+	"BasicGame.h"
+	"Canvas.h"
+	"Board.h"
+
+1261642862 e:\cpp\seminarski1\winapi\visualtext.h
+	"visualelement.h"
+
+1261648547 e:\cpp\seminarski1\winapi\basicgame.h
+
+1261956216 d:\projects\winapi\winapi\basicgame.h
+	"visualText.h"
+
+1262268020 d:\projects\winapi\winapi\timer.h
+
+1324217059 source:d:\raf\cpp\2009 - 2010\seminarski\main.cpp
+	<windows.h>
+	<iostream>
+	"application.h"
+	"testElement.h"
+	"dragndrop.h"
+	"Card.h"
+	"Board.h"
+	"TestElement.h"
+
+1323998637 d:\raf\cpp\2009 - 2010\seminarski\application.h
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<string>
+	"Canvas.h"
+	"VisualElement.h"
+	"Interactive.h"
+	"BasicGame.h"
+	"Timer.h"
+
+1296034499 d:\raf\cpp\2009 - 2010\seminarski\canvas.h
+	"Application.h"
+	"Utils.h"
+
+1296034504 d:\raf\cpp\2009 - 2010\seminarski\utils.h
+	<vector>
+	<sstream>
+	<algorithm>
+
+1323996069 d:\raf\cpp\2009 - 2010\seminarski\visualelement.h
+	"Application.h"
+	"Interactive.h"
+	"Utils.h"
+	<vector>
+
+1323996375 d:\raf\cpp\2009 - 2010\seminarski\interactive.h
+	<vector>
+	"utils.h"
+
+1296034498 d:\raf\cpp\2009 - 2010\seminarski\basicgame.h
+	"visualText.h"
+
+1296034505 d:\raf\cpp\2009 - 2010\seminarski\visualtext.h
+	"visualelement.h"
+
+1296034504 d:\raf\cpp\2009 - 2010\seminarski\timer.h
+
+1324217912 d:\raf\cpp\2009 - 2010\seminarski\testelement.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1296034505 d:\raf\cpp\2009 - 2010\seminarski\visualimage.h
+	"VisualElement.h"
+	"Canvas.h"
+
+1296034499 d:\raf\cpp\2009 - 2010\seminarski\dragndrop.h
+	"VisualElement.h"
+
+1296034499 d:\raf\cpp\2009 - 2010\seminarski\card.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1296034499 d:\raf\cpp\2009 - 2010\seminarski\board.h
+
+1296034503 d:\raf\cpp\2009 - 2010\seminarski\ms_iksoks.h
+	"VisualText.h"
+	"BasicGame.h"
+	"Canvas.h"
+	"Board.h"
+
+1324217059 source:d:\raf\cpp\seminarski\main.cpp
+	<windows.h>
+	<iostream>
+	"application.h"
+	"testElement.h"
+	"dragndrop.h"
+	"Card.h"
+	"Board.h"
+	"TestElement.h"
+
+1323998637 d:\raf\cpp\seminarski\application.h
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<string>
+	"Canvas.h"
+	"VisualElement.h"
+	"Interactive.h"
+	"BasicGame.h"
+	"Timer.h"
+
+1296034499 d:\raf\cpp\seminarski\canvas.h
+	"Application.h"
+	"Utils.h"
+
+1296034504 d:\raf\cpp\seminarski\utils.h
+	<vector>
+	<sstream>
+	<algorithm>
+
+1326536467 d:\raf\cpp\seminarski\visualelement.h
+	"Application.h"
+	"Interactive.h"
+	"Utils.h"
+	<vector>
+
+1323996375 d:\raf\cpp\seminarski\interactive.h
+	<vector>
+	"utils.h"
+
+1296034498 d:\raf\cpp\seminarski\basicgame.h
+	"visualText.h"
+
+1296034505 d:\raf\cpp\seminarski\visualtext.h
+	"visualelement.h"
+
+1296034504 d:\raf\cpp\seminarski\timer.h
+
+1324217912 d:\raf\cpp\seminarski\testelement.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1296034505 d:\raf\cpp\seminarski\visualimage.h
+	"VisualElement.h"
+	"Canvas.h"
+
+1326126416 d:\raf\cpp\seminarski\dragndrop.h
+	"VisualElement.h"
+
+1296034499 d:\raf\cpp\seminarski\card.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1296034499 d:\raf\cpp\seminarski\board.h
+
+1388703374 source:c:\users\kantar\desktop\seminarski\seminarski\main.cpp
+	<windows.h>
+	<iostream>
+	"Application.h"
+	"Dragndrop.h"
+	"Board.h"
+	"Reversi.h"
+	<vector>
+
+1388678884 c:\users\kantar\desktop\seminarski\seminarski\application.h
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<string>
+	"Canvas.h"
+	"VisualElement.h"
+	"Interactive.h"
+	"BasicGame.h"
+	"Timer.h"
+
+1388679086 c:\users\kantar\desktop\seminarski\seminarski\canvas.h
+	"Application.h"
+	"Utils.h"
+
+1328009616 c:\users\kantar\desktop\seminarski\seminarski\utils.h
+	<vector>
+	<sstream>
+	<algorithm>
+
+1388680261 c:\users\kantar\desktop\seminarski\seminarski\visualelement.h
+	"Application.h"
+	"Interactive.h"
+	"Utils.h"
+	<vector>
+
+1323996374 c:\users\kantar\desktop\seminarski\seminarski\interactive.h
+	<vector>
+	"utils.h"
+
+1388695212 c:\users\kantar\desktop\seminarski\seminarski\basicgame.h
+	"visualText.h"
+
+1296034504 c:\users\kantar\desktop\seminarski\seminarski\visualtext.h
+	"visualelement.h"
+
+1388678909 c:\users\kantar\desktop\seminarski\seminarski\timer.h
+
+1324217912 c:\users\kantar\desktop\seminarski\seminarski\testelement.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1296034504 c:\users\kantar\desktop\seminarski\seminarski\visualimage.h
+	"VisualElement.h"
+	"Canvas.h"
+
+1388678871 c:\users\kantar\desktop\seminarski\seminarski\dragndrop.h
+	"VisualElement.h"
+
+1296034498 c:\users\kantar\desktop\seminarski\seminarski\card.h
+	"VisualImage.h"
+	"DragNDrop.h"
+
+1296034498 c:\users\kantar\desktop\seminarski\seminarski\board.h
+
+1388699085 c:\users\kantar\desktop\seminarski\seminarski\reversi.h
+	"Functions.h"
+	"ReversiBE.h"
+	"ExtraFields.h"
+	"Engine.h"
+	<iostream>
+
+1388701871 c:\users\kantar\desktop\seminarski\seminarski\functions.h
+	"VisualElement.h"
+	"Reversi.h"
+	<sstream>
+
+1388699050 c:\users\kantar\desktop\seminarski\seminarski\reversibe.h
+	"Functions.h"
+	"VisualText.h"
+	"ExtraFields.h"
+
+1388702580 c:\users\kantar\desktop\seminarski\seminarski\engine.h
+	<iostream>
+	"Functions.h"
+	"AIPlayer.h"
+
+1388703595 c:\users\kantar\desktop\seminarski\seminarski\aiplayer.h
+	"Functions.h"
+	<time.h>
+
+1388688866 c:\users\kantar\desktop\seminarski\seminarski\ms_iksoks.h
+	"VisualText.h"
+	"BasicGame.h"
+	"Canvas.h"
+	"Board.h"
+
+1388700580 c:\users\kantar\desktop\seminarski\seminarski\extrafields.h
+	"VisualText.h"
+	"Functions.h"
+
+1388703374 source:c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\main.cpp
+	<windows.h>
+	<iostream>
+	"Application.h"
+	"Dragndrop.h"
+	"Board.h"
+	"Reversi.h"
+	<vector>
+
+1390761258 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\application.h
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<string>
+	"Canvas.h"
+	"VisualElement.h"
+	"Interactive.h"
+	"BasicGame.h"
+	"Timer.h"
+
+1388679086 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\canvas.h
+	"Application.h"
+	"Utils.h"
+
+1328009616 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\utils.h
+	<vector>
+	<sstream>
+	<algorithm>
+
+1388680261 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\visualelement.h
+	"Application.h"
+	"Interactive.h"
+	"Utils.h"
+	<vector>
+
+1323996374 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\interactive.h
+	<vector>
+	"utils.h"
+
+1388695212 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\basicgame.h
+	"visualText.h"
+
+1296034504 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\visualtext.h
+	"visualelement.h"
+
+1388678909 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\timer.h
+
+1388678871 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\dragndrop.h
+	"VisualElement.h"
+
+1296034498 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\board.h
+
+1388699085 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\reversi.h
+	"Functions.h"
+	"ReversiBE.h"
+	"ExtraFields.h"
+	"Engine.h"
+	<iostream>
+
+1388701871 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\functions.h
+	"VisualElement.h"
+	"Reversi.h"
+	<sstream>
+
+1388699050 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\reversibe.h
+	"Functions.h"
+	"VisualText.h"
+	"ExtraFields.h"
+
+1388700580 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\extrafields.h
+	"VisualText.h"
+	"Functions.h"
+
+1388702580 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\engine.h
+	<iostream>
+	"Functions.h"
+	"AIPlayer.h"
+
+1388703595 c:\users\kantar\desktop\fakultet\radovi\seminarski\seminarski\aiplayer.h
+	"Functions.h"
+	<time.h>
+
