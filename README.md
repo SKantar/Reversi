@@ -6,5 +6,19 @@ The object of the game is to have the majority of disks turned to display your c
   <a name="top" href="#"><img src="test.gif"></a>
 </p>
 
+## Tools
+* Programming language C++ (https://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language)
+* Code::Blocks IDE (www.codeblocks.org)
+* Windows operating sistem (GUI Based on  WIN API)
+
+### WIN API Game framework
+Project contains very usefull Board/Card game framework maked in C++ using WIN API.
+
+
+
+
+
+
+
 
 
