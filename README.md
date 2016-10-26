@@ -48,8 +48,8 @@ as well.
 2. After opening the project in Code::Blocks, you can easily run the project
 
 ## Conclusion
-Works fast
-Dependent on the operating system (Windows)
+*Works fast
+*Dependent on the operating system (Windows)
 
 
 
